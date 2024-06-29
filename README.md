@@ -1,4 +1,4 @@
-## Hi, I'm Kalash Shrestha 👋
+# Hi, I'm Kalash Shrestha 👋
 
 <!--
 **kalexrt/kalexrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+## 💫 About Me:
 - A passionate developer with a focus on C++ and Python. 
 - I enjoy working on diverse projects, including image colorization using CNNs and various algorithmic challenges.
 - I love exploring new technologies and contributing to open source. 
