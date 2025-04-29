@@ -1,28 +1,8 @@
 # Hi, I'm Kalash Shrestha 👋
 
-<!--
-**kalexrt/kalexrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a keen interest in data science, machine learning, and software development. My journey in tech has led me to explore various projects, from algorithm implementations to image processing using convolutional neural networks.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 💫 About Me:
-- A passionate developer with a focus on C++ and Python. 
-- I enjoy working on diverse projects, including image colorization using CNNs and various algorithmic challenges.
-- I love exploring new technologies and contributing to open source. 
-- Let's collaborate and build something amazing!
-- Currently learning typescript and node.
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalash-s-8a1433130/) 
 
 # 💻 Tech Stack:
